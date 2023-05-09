@@ -1,2 +1,3 @@
 # Test-3-WRF
-Test of WRF and HRRR repo for data analysis. Test text
+PowerPoint paths: michael.bartsevich/SynopticPy/notebooks/2022_Obs_WRF/ErrorData.pptx
+                  michael.bartsevich/SynopticPy/notebooks/2022_Obs_WRF/example.pptx
